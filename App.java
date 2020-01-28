@@ -957,7 +957,7 @@ public class App implements Cloneable {
                 }
             }catch (Exception e) {
                 e.printStackTrace();
-                System.out.println("SomeThink bad Happened");
+                System.out.println("SomeThing bad Happened");
             }
 
         }
